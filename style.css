@@ -1,0 +1,132 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 60px;
+    line-height: 20px;
+}
+h2{
+    font-size: 40px;
+}
+.red-color{
+    color: rgb(253, 82, 82);
+}
+.green-color{
+    color: rgb(1, 247, 1);
+}
+#with-food{
+    line-height: 20px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.batton{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgb(253, 145, 145); 
+}
+#line-hight{
+    line-height: 30px;
+}
+#section-one{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+.half-wid{
+    width: 50%;
+}
+.half-wid img{
+    width: 550px;
+}
+#section-two{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#reduce-img-size{
+    width: 300px;
+    margin-left: 150px;
+}
+.about-me{
+    margin-left: 200px;
+    margin-top: 100px;
+    line-height: 30px;
+    padding-right: 100px;
+}
+#my-recipies{
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#menu{
+    display: flex;
+    padding: 50px;
+    margin-left: 40px;
+}
+.width{
+    width: 25%;
+    box-shadow: 0px 0px 40px rgb(252, 164, 164);
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.width img{
+    width: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 10%;
+}
+.img-redious{
+    border-radius: 10px;
+
+}
+.width h3{
+    padding-left: 10px;
+}
+.width p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.end-area{
+    background-color: rgb(248, 216, 216);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    line-height: 40px;
+    word-spacing: 5px;
+}
+.end-area p{
+    color: rgb(0, 0, 0);
+}
+.subscriver-count{
+    display: flex;
+    margin-left: 130px;
+    margin-top: 50px;
+    margin-right: 170px;
+    margin-bottom: 70px;
+    box-shadow: 0px 0px 70px rgb(252, 164, 164);
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+.width-two{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+footer{
+    background-color: rgb(248, 216, 216);
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 15px;
+}
+#greycolor{
+    color: rgb(211, 188, 248);
+}
